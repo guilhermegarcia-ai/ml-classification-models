@@ -1,0 +1,23 @@
+# uvicorn deploy.rest_api:long_term_predictor_app
+
+###
+POST http://localhost:8000/predict
+Content-Type: application/json
+
+{
+    "age": 38,
+    "job": "entrepreneur",
+    "marital": "single",
+    "education": "tertiary",
+    "default": "no",
+    "balance": 243,
+    "housing": "no",
+    "loan": "yes",
+    "contact": "unknown",
+    "day": 5,
+    "month": "may",
+    "campaign": 1,
+    "pdays": -1,
+    "previous": 0,
+    "poutcome": "unknown"
+}
