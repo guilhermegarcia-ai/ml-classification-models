@@ -6,6 +6,10 @@ The Bank Marketing Long Term Deposit Predictor project aims to develop a machine
 
 Banks often run marketing campaigns to offer financial products like long-term deposits to potential clients. The campaign process involves contacting clients through various communication channels, assessing their interest, and tracking responses. Decisions on which clients to target are typically based on attributes such as age, job, marital status, education, account balance, credit history, and prior campaign results.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d2db287c-9f6e-492e-819a-612e653545b0" width=300 height=168>
+</p>
+
 ## The Data
 
 The dataset (https://www.kaggle.com/datasets/abdelazizsami/bank-marketing/data) contains 45,211 records detailing client attributes collected during previous marketing campaigns. It includes the following features:
