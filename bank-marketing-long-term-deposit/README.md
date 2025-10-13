@@ -75,5 +75,17 @@ bank-marketing/
 
 ### 1. Running prediction for new data
 
-## Streamlit Front-End Website
+<p align="center">
+<img src="https://github.com/user-attachments/assets/20928577-7954-4671-93db-05c112f3e2ae">
+</p>
+
+## Streamlit Front-End Website (FastAPI & LLM Gemini)
 - The Streamlit app allows users to input customer data and get real-time predictions via the FastAPI endpoint, including visual explanations of feature importance.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b718d94d-aa67-494b-b2d7-0bcd64428e3a">
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/3a1f647b-e90e-42d4-8826-b9879aca3697">
+</p>
